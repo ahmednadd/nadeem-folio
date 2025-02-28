@@ -1,8 +1,8 @@
 .heading-primary {
-  font-size: 6rem;
-  text-transform: uppercase;
-  letter-spacing: 3px;
+  font-size: 8rem;
   text-align: center;
+  font-family: 'acorn-regular';
+  line-height: normal;
   @include respond(phone) {
     font-size: 4.5rem;
   }
